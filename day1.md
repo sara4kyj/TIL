@@ -230,10 +230,10 @@ ___
 
 ​		아래이미지는 sara4kyj의 고양이입니다.
 ```
-![더기](../TIL/day1.assets/더기.png)
+![더기](https://github.com/sara4kyj/TIL/blob/cb6648decb8755b4011975ebb9b647189f7ba5dc/day1.assets/%EB%8D%94%EA%B8%B0.png)
 ```
 
-![더기](../TIL/day1.assets/더기.png)
+![더기](https://github.com/sara4kyj/TIL/blob/cb6648decb8755b4011975ebb9b647189f7ba5dc/day1.assets/%EB%8D%94%EA%B8%B0.png)
 
 ---
 
