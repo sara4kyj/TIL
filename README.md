@@ -8,4 +8,4 @@
 
 ### 목차
 
-- [day1. CLI와 마크다운][https://github.com/sara4kyj/TIL/blob/6485c429770c29e99e26617b32ca2b4d71a3a8e6/day1.md]
+- [day1. CLI와 마크다운](https://github.com/sara4kyj/TIL/blob/6485c429770c29e99e26617b32ca2b4d71a3a8e6/day1.md)
