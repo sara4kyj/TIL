@@ -12,11 +12,10 @@
 
 ####  python 기초
 
-[00. 변수와 리스트](https://github.com/sara4kyj/TIL/blob/69f33a1de73090284eeb6e1cd41862d4a4ba967f/python_study/00%20%EB%B3%80%EC%88%98%EC%99%80%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [00. 변수와 리스트](https://github.com/sara4kyj/TIL/blob/69f33a1de73090284eeb6e1cd41862d4a4ba967f/python_study/00%20%EB%B3%80%EC%88%98%EC%99%80%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 
 
 
----
 
 #### Git 특강
 
