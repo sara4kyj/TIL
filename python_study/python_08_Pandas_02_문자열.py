@@ -1,4 +1,10 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec 20 15:18:12 2021
+
+@author: sara
+"""
+
 # 판다스_문자열 메소드
 # 기본 메소드 : 벡터 연산 불가능 (매 원소마다 반복 불가)
 
@@ -71,11 +77,11 @@ s3.str[0:3] # Series에서 각 원소마다 1-3번재까지의 문자열 추출
 
 # 예제 : 이메일 아이디 추출
 s3 = Series(['abc@abc.com','abcde@acde.com'])
-# 1.
+1.
 s3.map(lambda x:x[:x.find('@')])
-# 2. 
+2.
 list(map(lambda x,y: x[0:y], s3, s3.str.find('@')))
-# 3.
+3.
 list(s3.map(lambda x: x[:x.find('@')]))
 
 # 문자열 삽입 pad
@@ -92,5 +98,4 @@ s4.str.cat(sep='/')              # >> Series 내 서로 다른 원소를 구분�
 s5 = Series([['a','b','c'],['d','e','f']])
 s5.str.join(sep='')              # >> Series 내 같은 원소 내부의 문자열 결합
 s5.str.join(sep=',')              # >> Series 내 같은 원소 내부의 문자열 결합할때 구분기호','로 구분
-```
 

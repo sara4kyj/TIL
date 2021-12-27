@@ -1,4 +1,10 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 16 15:32:15 2021
+
+@author: sara
+"""
+
 # 문자열 메서드
 # 문자열 처리와 관련된 메서드
 
@@ -36,9 +42,9 @@ s2=Series(l2)
 s2.str.split('/')
 
 # 2) 대소 치환
-s1.str.upper()		# 소문자 전부를 대문자로
-s1.str.lower()		# 대분자 전부를 소문자로
-s1.str.title()		# 첫글자만 대문자로
+s1.str.upper()
+s1.str.lower()
+s1.str.title()
 
 # 3) replace
 s1.str.replace('a','A')
@@ -116,5 +122,5 @@ s4.str.cat(sep='/')
 s6 = Series([['a','b','c'],['d','e','f']])
 s6
 s6.str.join(sep='/') # Series 내 각 원소 내부의 문자열을 결합 (/)
-```
+
 

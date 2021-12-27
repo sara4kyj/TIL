@@ -1,4 +1,10 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec 20 13:31:10 2021
+
+@author: sara
+"""
+
 #  07. Pandas _ Series, DataFrame  # 2차원 정형데이터 분석에 주로 사용
 
 import numpy as np
@@ -91,7 +97,11 @@ d2
 
 import numpy as np
 d3 = DataFrame(np.arange(1,7).reshape(2,3), index=['a','b'], columns=['col1','col2','col3'])
+# >> 1부터 6까지 생성한 뒤 행이 2 열이 3의 모양으로 만들고 행의 index는 a, b로 열의 index는 col1, col2, col3로 만들어 d3에 저장
 d3
+#    col1  col2  col3
+# a     1     2     3
+# b     4     5     6
 
 # 색인 (indexing) *****
 
@@ -131,5 +141,6 @@ d3
 d4 
 d5
 d3 + d5
-d3.add(d5, fill_value=0)		# NaN 값 반환으로 인한 오류를 방지하기 위해 fill_value=0를 사용
-```
+d3.add(d5, fill_value=0)
+
+

@@ -1,4 +1,10 @@
-``` python
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 15 16:12:05 2021
+
+@author: sara
+"""
+
 # 자료구조
 # 1. 리스트(기본구조) [1,2]
 # 2. 튜플(상수, 불변) (1,2)
@@ -86,7 +92,7 @@ a2[np.ix_([1,2],[1,2])]
 # array([[5, 6],
 #        [8, 9]])
 
-# np.ix_? # ----? : ----에 대한 설명
+# np.ix_? # ----? 내부 예제 파일
 
 # 조건 색인
 a2>5
@@ -230,5 +236,6 @@ np.savetxt('.\Downloads\\data_bigdata_cert\\file2.txt', a2, delimiter=',', fmt='
 '%10.4f' % 123
 '%d' % 123
 '%7d' % 123
-```
+
+
 

@@ -1,4 +1,10 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 15 15:22:51 2021
+
+@author: sara
+"""
+
 # 사용자 정의 함수
 # 사용자가 정의하는 함수의 형태
 # input과 output 관계를 내부에 정의
@@ -75,7 +81,8 @@ list(map(f1,l1))
 
 l2 = [3,5,7,12]
 
-def f3(x):
+# 받은 수가 10보다 크면 3을 곱하고 작거나 같으면 2를 곱한 결과를 반환하는 함수
+def f3(x):      
     if x>10:
         v1=x*3
     else:
@@ -83,5 +90,3 @@ def f3(x):
     return v1
 
 list(map(f3,l2))
-```
-

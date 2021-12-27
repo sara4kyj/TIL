@@ -1,11 +1,17 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Dec 24 13:25:11 2021
+
+@author: sara
+"""
+
 #  pandas 정렬 sort()
 
 import pandas as pd
 import numpy as np
 from pandas import Series, DataFrame
 
-pwd         # present working dierectory 현 위치 폴더(디렉토리)
+# pwd         # present working dierectory 현 위치 폴더(디렉토리)
 
 pd.read_csv('./data/emp.csv')
 
@@ -47,9 +53,8 @@ emp.set_index('ename')
 
 emp = emp.set_index('ename')
 
-# >> ascending : 상승
-emp.sort_index(ascending=False)		# 내림차순     
-emp.sort_index(ascending=True)      # 올림차순
+emp.sort_index(ascending=False)     # >> ascending : 상승
+emp.sort_index(ascending=True)      
 emp.sort_index()                    # >> defalut : ascending=True
 
 emp.sort_index(axis=0)
@@ -65,7 +70,6 @@ emp.sort_values('sal')      # by 생략 가능
 
 emp.sort_values(by='sal', ascending=False)
 
-# 부서별 연봉 수준
+# 부서별 연봉 수준 : 부서는 내림차순, 연봉은 오름차순
 emp.sort_values(by=['deptno','sal'], ascending=[True,False])
-```
-
+emp.sort_values(['deptno','sal'], ascending=[True,False])

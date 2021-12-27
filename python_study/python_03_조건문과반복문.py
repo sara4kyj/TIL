@@ -1,4 +1,10 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 15 13:37:02 2021
+
+@author: sara
+"""
+
 # 조건문과 반복문
 
 # 논리연산자
@@ -85,19 +91,19 @@ print(l2)
 
 # while 조건:
 #     조건이 참일 때 반복 문장
-
+    
 # 예제
 # while 문으로 1~10까지 출력
 i=1
 while i<=10:
     print(i)
-    i+=1			# i = i + 1
+    i+=1
 
 # 문제
 # 1~100 까지 총합
 vsum=0
 for i in range(1,101):
-    vsum+=i 		# vsum=vsum+i
+    vsum+=i # vsum=vsum+i
 print(vsum)
 
 vvv=sum(i for i in range(1,101))
@@ -139,7 +145,7 @@ for i in range(1,11):
 # # exit 5    
 # for i in range(1,11):
 #     if i==5:
-#         exot(0)
+#         exit(0)
 #     print(i)
 
 # pass test      
@@ -148,13 +154,16 @@ if v1 > 10:
     pass
 else:
     print('b')    
-
+ 
 # 문제
 # 1부터 100까지 누적합이 최초 2000 이상이 되는 시점의 k 값과 총 합을 출력하세요.
 vsum=0
 for k in range(1,101):
-    vsum+=k			# vsum = vsum + k
-    if vsum>=2000:	# vsum이 2000이상일 때
+    vsum+=k
+    if vsum>=2000:      # 누적합이 2000이상일때 break
         break
 print("합은",vsum,"k=",k)
-```
+ 
+    
+ 
+    

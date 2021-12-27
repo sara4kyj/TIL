@@ -1,4 +1,10 @@
-```python
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Dec 24 11:06:44 2021
+
+@author: sara
+"""
+
 # replace 메서드_치환, 삭제
 
 # replace 메서드
@@ -45,10 +51,8 @@ Series(['abcd','abcde','aaaab', np.nan]).map(lambda x : x.replace(np.nan, ''))
 # - 숫자로 구성된 Series 적용 불가
 
 Series(['abcd','abcde','aaaab']).str.replace('a', 'A')
-DataFrame(['abcd','abcde','aaaab']).str.replace('a', 'A')       
-# >> error / 데이터의 형태가 DataFrame이기 때문에 str.repalce 사용불가
-['abcd','abcde','aaaab'].str.replace('a', 'A')                 
-# >> error / 데이터의 형태가 list이기 때문에 str.replace 사용 불가
+DataFrame(['abcd','abcde','aaaab']).str.replace('a', 'A')       # >> error / because DataFrame
+['abcd','abcde','aaaab'].str.replace('a', 'A')                  # >> error / because list
 
 # pandas replace
 # - pandas 제공
@@ -69,7 +73,7 @@ df3
 df3.replace(['.','1400','?','!'], np.nan)
 
 # [연습문제]
-# df1에 천단위 구분기호 제거 후 모두 숫자(int형)로 변경
+# df1에 천단위 구분기호 제거 후 모든 숫자 변경
 df1 = DataFrame([['1,200', '1,300'],['1,400', '1,500']])
 
 # applymap 함수 사용
@@ -83,5 +87,3 @@ copy_df1=df1
 for i in range(0,len(df1)):
     copy_df1[i] = df1[i].str.replace(',','').astype('int')
 print(copy_df1)
-```
-
