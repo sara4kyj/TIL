@@ -16,7 +16,7 @@
 3. [조건문과 반복문](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_03_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%EB%B0%98%EB%B3%B5%EB%AC%B8.py)
    - [점프투파이썬 조건문연습](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_03_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%97%B0%EC%8A%B5.py)
 4. [사용자정의함수](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_04_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98.py)
-   - [점프투파이썬 사용자정의함수 연습]()
+   - [점프투파이썬 사용자정의함수 연습](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_04_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98%EC%97%B0%EC%8A%B5.py)
 5. [numpy](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_05_numpy.py)
 6. [문자열메서드](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_06_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A9%94%EC%84%9C%EB%93%9C.py)
 7. Pandas
@@ -27,9 +27,9 @@
    5. [정렬 sort](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_11_Pandas_05_%EC%A0%95%EB%A0%AC_sort.py)
    6. [groupby](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_12_Pandas_06_groupby.py)
    7. [merge](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_13_Pandas_07_merge.py)
-   7. [drop,shift,rename]()
-   7. [stack,unstack,pivot_table]()
-   7. [NA 결측치 처리, 중복값 제거]()
+   7. [drop,shift,rename](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_14_Pandas_08_drop,shift,rename.py)
+   7. [stack,unstack,pivot_table](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_15_Pandas_09_stack,unstack,pivot_table.py)
+   7. [NA 결측치 처리, 중복값 제거](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_16_Pandas_10_NA%20%EA%B2%B0%EC%B8%A1%EC%B9%98%20%EC%B2%98%EB%A6%AC,%20%EC%A4%91%EB%B3%B5%EA%B0%92%20%EC%A0%9C%EA%B1%B0.py)
 
 
 
