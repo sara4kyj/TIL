@@ -30,6 +30,10 @@
    7. [drop,shift,rename](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_14_Pandas_08_drop,shift,rename.py)
    7. [stack,unstack,pivot_table](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_15_Pandas_09_stack,unstack,pivot_table.py)
    7. [NA 결측치 처리, 중복값 제거](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_16_Pandas_10_NA%20%EA%B2%B0%EC%B8%A1%EC%B9%98%20%EC%B2%98%EB%A6%AC,%20%EC%A4%91%EB%B3%B5%EA%B0%92%20%EC%A0%9C%EA%B1%B0.py)
+   7. [날짜표현](https://github.com/sara4kyj/TIL/blob/b9d8e1beb4cec3911a1a5858f298abdcb3cd4cc1/python_study/python_17_Pandas_11_%EB%82%A0%EC%A7%9C.py)
+8. 연습문제
+   1. [Pandas_01](https://github.com/sara4kyj/TIL/blob/b9d8e1beb4cec3911a1a5858f298abdcb3cd4cc1/python_study/python_19_practice_01_pandas.py)
+
 
 
 
