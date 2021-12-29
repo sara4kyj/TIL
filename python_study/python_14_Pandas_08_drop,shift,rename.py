@@ -9,7 +9,7 @@ Created on Tue Dec 28 13:14:38 2021
 
 # 기타메소드
 
-run my_modules  # import 정의 함수 모음 파일 
+run my_modules  # 라이브러리 호출 함수 모음
 
 # 1. drop
 # - 특정 행, 컬럼 제거
