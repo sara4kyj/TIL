@@ -39,7 +39,7 @@
    7. [날짜표현](https://github.com/sara4kyj/TIL/blob/b9d8e1beb4cec3911a1a5858f298abdcb3cd4cc1/python_study/python_17_Pandas_11_%EB%82%A0%EC%A7%9C.py)
    7. 연습문제
    
-   1. [Pandas_01](https://github.com/sara4kyj/TIL/blob/b9d8e1beb4cec3911a1a5858f298abdcb3cd4cc1/python_study/python_19_practice_01_pandas.py)
+      1. [Pandas_01](https://github.com/sara4kyj/TIL/blob/b9d8e1beb4cec3911a1a5858f298abdcb3cd4cc1/python_study/python_19_practice_01_pandas.py)
 
 8. Pandas  전처리
 
