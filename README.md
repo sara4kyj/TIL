@@ -22,7 +22,7 @@
    
 4. [사용자정의함수](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_04_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98.py)
    
-   - [점프투파이썬 사용자정의함수 연습](https://github.com/sara4kyj/TIL/blob/5d90c1070ac84efe9354a870d7ebe7973da9c781/python_study/python_04_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98%EC%97%B0%EC%8A%B5.py)
+   - [점프투파이썬 사용자정의함수 연습](https://github.com/sara4kyj/TIL/blob/44044c36ddba8bd684b902e1e5028f6f84539697/python_study/python_04_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98%EC%97%B0%EC%8A%B5.py)
    
 5. [numpy](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_05_numpy.py)
 
