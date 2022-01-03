@@ -141,3 +141,22 @@ print(a)
 # lambda
 add = lambda a, b : a+b
 print(add(3,4))
+
+# input의 사용
+a = input()
+a
+
+# 프롬프트를 띄워서 사용자 입력 받기
+number = input('Enter the number : ')
+print(number, type(number))
+
+# print : "로 둘러싸인 문자열은 + 연산과 동일
+print("life" "is" "too short")
+print("life"+"is"+"too shrot")
+
+# print : 문자열 띄어쓰기는 , 로 한다
+print("life", "is", "too short")
+
+# print : 한줄에 결과값 출력하기
+for i in range(10):
+    print(i, end=' ')
