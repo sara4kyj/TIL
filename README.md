@@ -54,10 +54,10 @@
    
 ##### - 자료구조와 알고리즘
 
-1. [선형리스트]()
-2. [연결리스트]()
-3. [스택]()
-4. [큐]()
+1. [선형리스트](https://github.com/sara4kyj/TIL/blob/8ff129ab201e1670b42bbddf220a7e3ef70635a5/python_study/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/03_%EC%84%A0%ED%98%95%EB%A6%AC%EC%8A%A4%ED%8A%B8)
+2. [연결리스트](https://github.com/sara4kyj/TIL/blob/8ff129ab201e1670b42bbddf220a7e3ef70635a5/python_study/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/04_%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8)
+3. [스택](https://github.com/sara4kyj/TIL/blob/8ff129ab201e1670b42bbddf220a7e3ef70635a5/python_study/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/06_%EC%8A%A4%ED%83%9D)
+4. [큐](https://github.com/sara4kyj/TIL/blob/8ff129ab201e1670b42bbddf220a7e3ef70635a5/python_study/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07_%ED%81%90)
 
 
 
