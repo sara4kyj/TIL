@@ -8,8 +8,10 @@
 
 ### 목차
 
+####  python 
 
-####  python 기초 
+#####  - 기초 
+
 1. [변수와 리스트](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_01_%EB%B3%80%EC%88%98%EC%99%80%EB%A6%AC%EC%8A%A4%ED%8A%B8.py)
    - [점프투파이썬 리스트자료형연습](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_01_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95%EC%97%B0%EC%8A%B5.py)
    - [점프투파이썬_리스트자료형연습문제](https://github.com/sara4kyj/TIL/blob/bad36ee1510575ccda4871644f176cb1290135e8/python_study/python_01_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.py)
@@ -22,7 +24,7 @@
    
 4. [사용자정의함수](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_04_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98.py)
    
-   - [점프투파이썬 사용자정의함수 연습](https://github.com/sara4kyj/TIL/blob/44044c36ddba8bd684b902e1e5028f6f84539697/python_study/python_04_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98%EC%97%B0%EC%8A%B5.py)
+   - [점프투파이썬 사용자정의함수 연습](https://github.com/sara4kyj/TIL/blob/6941a124d8448eb4b751005890f21e35921c2a0a/python_study/python_04_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98%EC%97%B0%EC%8A%B5.py)
    
 5. [numpy](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_05_numpy.py)
 
@@ -50,11 +52,17 @@
    2. [스케일링](https://github.com/sara4kyj/TIL/blob/df20a24ad59bdc76623a5688055821b858be4df4/python_study/python_22_pandas_%EC%A0%84%EC%B2%98%EB%A6%AC_02_%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81.py)
 
    
+##### - 자료구조와 알고리즘
+
+1. [선형리스트]()
+2. [연결리스트]()
+3. [스택]()
+4. [큐]()
 
 
 
 
-#### 특강
+#### 도구모음
 
 - [day1. CLI와 마크다운](https://github.com/sara4kyj/TIL/blob/6485c429770c29e99e26617b32ca2b4d71a3a8e6/day1.md)
 - [day2. Git과 Github](https://github.com/sara4kyj/TIL/blob/d53ee67eff992c2d12890ef5a64b422e8878aad1/day2_Git%EA%B3%BCGithub.md)
