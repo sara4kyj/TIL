@@ -10,26 +10,29 @@
 
 ####  - python 
 
+##### 0. 점프투파이썬 연습
+
+1. [리스트자료형](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC/01_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95_%EC%97%B0%EC%8A%B5.py)
+   - [연습문제](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC/01_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.py)
+2. [조건문](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8_%EC%97%B0%EC%8A%B5.py)
+   - [연습문제](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC/02_%EC%A1%B0%EA%B1%B4%EB%AC%B8_%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.py)
+3. [사용자정의함수](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC/03_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98_%EC%97%B0%EC%8A%B5.py)
+
+
+
 #####  1. 기초 
 
-1. [변수와 리스트](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_01_%EB%B3%80%EC%88%98%EC%99%80%EB%A6%AC%EC%8A%A4%ED%8A%B8.py)
+1. [변수와 리스트](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/python_01_%EB%B3%80%EC%88%98%EC%99%80%EB%A6%AC%EC%8A%A4%ED%8A%B8.py)
    
-   - [점프투파이썬 리스트자료형연습](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_01_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95%EC%97%B0%EC%8A%B5.py)
-   - [점프투파이썬_리스트자료형연습문제](https://github.com/sara4kyj/TIL/blob/bad36ee1510575ccda4871644f176cb1290135e8/python_study/python_01_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%A3%8C%ED%98%95%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.py)
-   
-2. [문자열처리](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_02_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B2%98%EB%A6%AC.py)
+2. [문자열처리](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/python_02_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%B2%98%EB%A6%AC.py)
 
-3. [조건문과 반복문](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_03_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%EB%B0%98%EB%B3%B5%EB%AC%B8.py)
-   - [점프투파이썬 조건문연습](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_03_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%97%B0%EC%8A%B5.py)
-   - [점프투파이썬_조건문연습문제](https://github.com/sara4kyj/TIL/blob/bad36ee1510575ccda4871644f176cb1290135e8/python_study/python_03_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C.py)
+3. [조건문과 반복문](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/python_03_%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC%EB%B0%98%EB%B3%B5%EB%AC%B8.py)
    
-4. [사용자정의함수](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_04_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98.py)
+4. [사용자정의함수](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/python_04_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98.py)
    
-   - [점프투파이썬 사용자정의함수 연습](https://github.com/sara4kyj/TIL/blob/6941a124d8448eb4b751005890f21e35921c2a0a/python_study/python_04_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98%EC%97%B0%EC%8A%B5.py)
-   
-5. [numpy](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_05_numpy.py)
+5. [numpy](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/python_05_numpy.py)
 
-6. [문자열메서드](https://github.com/sara4kyj/TIL/blob/cd0189947d6e335bc9c0a060493b75d448129df0/python_study/python_06_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A9%94%EC%84%9C%EB%93%9C.py)
+6. [문자열메서드](https://github.com/sara4kyj/TIL/blob/8d2c11198dd06dd6ee0a29be03d9d5898c124f36/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95/python_06_%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A9%94%EC%84%9C%EB%93%9C.py)
 
 7. [Pandas](https://github.com/sara4kyj/TIL/blob/374c38ac008c85c81d15b165f76c6bbe2c2581c7/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas)
    
@@ -75,9 +78,9 @@
 
 
 
-
 #### - Tool
 
-- [CLI와 마크다운](https://github.com/sara4kyj/TIL/blob/6485c429770c29e99e26617b32ca2b4d71a3a8e6/day1.md)
-- [Git과 Github](https://github.com/sara4kyj/TIL/blob/d53ee67eff992c2d12890ef5a64b422e8878aad1/day2_Git%EA%B3%BCGithub.md)
+1. Git & Github
+   - [CLI와 마크다운](https://github.com/sara4kyj/TIL/blob/6485c429770c29e99e26617b32ca2b4d71a3a8e6/day1.md)
+   - [Git과 Github](https://github.com/sara4kyj/TIL/blob/d53ee67eff992c2d12890ef5a64b422e8878aad1/day2_Git%EA%B3%BCGithub.md)
 
