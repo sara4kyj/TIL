@@ -34,9 +34,9 @@
    
    2. [[연습문제] 내 생일 기온변화 그래프 그리기](https://github.com/sara4kyj/TIL/blob/374c38ac008c85c81d15b165f76c6bbe2c2581c7/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/103.%20%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EB%82%B4%20%EC%83%9D%EC%9D%BC%20%EA%B8%B0%EC%98%A8%EB%B3%80%ED%99%94%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.ipynb)
    
-   3. [기온데이터 시각화하기]()
-   4. [pandas_data_gathering_api]()
-2. [우리 동네 인구구조 시각화]()
+   3. [기온데이터 시각화하기](https://github.com/sara4kyj/TIL/blob/9cfc4089ea98eea229bd95323a6c5dbee0fd24ff/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/104.%20%EA%B8%B0%EC%98%A8%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%98%EA%B8%B0.ipynb)
+   4. [pandas_data_gathering_api](https://github.com/sara4kyj/TIL/blob/9cfc4089ea98eea229bd95323a6c5dbee0fd24ff/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/105.%20%EC%9A%B0%EB%A6%AC%20%EB%8F%99%EB%84%A4%20%EC%9D%B8%EA%B5%AC%EA%B5%AC%EC%A1%B0%20%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
+2. [우리 동네 인구구조 시각화](https://github.com/sara4kyj/TIL/blob/9cfc4089ea98eea229bd95323a6c5dbee0fd24ff/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/200.%20pandas_data_gathering_api.ipynb)
 
 
 
