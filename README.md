@@ -26,6 +26,8 @@
 2. [연결리스트](https://github.com/sara4kyj/TIL/blob/374c38ac008c85c81d15b165f76c6bbe2c2581c7/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/04_%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 3. [스택](https://github.com/sara4kyj/TIL/blob/374c38ac008c85c81d15b165f76c6bbe2c2581c7/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/06_%EC%8A%A4%ED%83%9D)
 4. [큐](https://github.com/sara4kyj/TIL/blob/374c38ac008c85c81d15b165f76c6bbe2c2581c7/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/07_%ED%81%90)
+5. [이진트리](https://github.com/sara4kyj/TIL/blob/5c285721d62b8b21aa36e8e30cf6d975d94bab32/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/08_%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC)
+6. [그래프](https://github.com/sara4kyj/TIL/blob/5c285721d62b8b21aa36e8e30cf6d975d94bab32/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09_%EA%B7%B8%EB%9E%98%ED%94%84)
 
 #### 03. [공공데이터분석](https://github.com/sara4kyj/TIL/blob/374c38ac008c85c81d15b165f76c6bbe2c2581c7/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
 
