@@ -12,7 +12,7 @@
 
 #### 01. [기초](https://github.com/sara4kyj/TIL/blob/df0c0051320b453df10003eb025db02bb74bd744/python_study/01_%EA%B8%B0%EC%B4%88)
 
-0. [점프투파이선 연습](https://github.com/sara4kyj/TIL/blob/df0c0051320b453df10003eb025db02bb74bd744/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+0. [점프투파이썬 연습](https://github.com/sara4kyj/TIL/blob/df0c0051320b453df10003eb025db02bb74bd744/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
 1. [기초문법](https://github.com/sara4kyj/TIL/blob/df0c0051320b453df10003eb025db02bb74bd744/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
 
