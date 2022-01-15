@@ -16,7 +16,7 @@
 
 1. [기초문법](https://github.com/sara4kyj/TIL/blob/df0c0051320b453df10003eb025db02bb74bd744/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
 
-2. [pandas](https://github.com/sara4kyj/TIL/blob/0c5840ac2f27be2f79b15d1dd82bc386531c27fc/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
+2. [pandas](https://github.com/sara4kyj/TIL/blob/9bb9a4e00ef937dc4778a5d0354e063326a46615/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
 
 #### 02. [자료구조와 알고리즘](https://github.com/sara4kyj/TIL/blob/0c5840ac2f27be2f79b15d1dd82bc386531c27fc/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
 
