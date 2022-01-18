@@ -18,7 +18,7 @@
 
 2. [pandas](https://github.com/sara4kyj/TIL/blob/9bb9a4e00ef937dc4778a5d0354e063326a46615/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
 
-#### 02. [자료구조와 알고리즘](https://github.com/sara4kyj/TIL/blob/0c5840ac2f27be2f79b15d1dd82bc386531c27fc/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
+#### 02. [자료구조와 알고리즘](https://github.com/sara4kyj/TIL/blob/6a8071874533d97d85558a69c6f3861ac5414c31/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 #### 03. [공공데이터분석](https://github.com/sara4kyj/TIL/blob/0c5840ac2f27be2f79b15d1dd82bc386531c27fc/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/)
 
