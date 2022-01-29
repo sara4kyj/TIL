@@ -24,7 +24,7 @@
 
 #### 04.[ Web Crawling ](https://github.com/sara4kyj/TIL/blob/cf9a6fb325956bb055b0c4b89969014787c2b93a/python_study/04_%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81_%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EC%8B%A4%EB%AC%B4/)
 
-#### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/ab1b0e911ba07a5444c39214a1c6f15a322c9632/python_study/05_OpenCV/)
+#### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/8073cef601f2cec3a8e9644b85414f744125c02e/python_study/05_OpenCV/)
 
 
 
