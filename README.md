@@ -14,7 +14,7 @@
 
 0. [점프투파이썬 연습](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
-1. [기초문법](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
+1. [기초문법](https://github.com/sara4kyj/TIL/blob/30273bb615960d9baa266d203379e0443c5f4250/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
 
 2. [pandas](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
 
