@@ -14,7 +14,7 @@
 
 0. [점프투파이썬 연습](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
-1. [기초문법](https://github.com/sara4kyj/TIL/blob/dd97eb1f72a841b54498150c00f8ac50b14ba2b3/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
+1. [기초문법](https://github.com/sara4kyj/TIL/blob/38d17876d9fd1d116b9fd6f98f4dadd80aebab43/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
 
 2. [pandas](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
 
@@ -26,7 +26,7 @@
 
 #### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/cc74585eb6b0a5df6444415ba0b8e3a7ade41718/python_study/05_OpenCV/)
 
-#### 06. [통계학 머신러닝](https://github.com/sara4kyj/TIL/blob/3e6fd929508874c5dabf256b099d584790435d62/python_study/06_%ED%86%B5%EA%B3%84%ED%95%99_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+#### 06. [통계학 머신러닝](https://github.com/sara4kyj/TIL/blob/338d17876d9fd1d116b9fd6f98f4dadd80aebab43/python_study/06_%ED%86%B5%EA%B3%84%ED%95%99_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 
 
 
