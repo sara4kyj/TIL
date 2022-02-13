@@ -16,7 +16,7 @@
 
 1. [기초문법](https://github.com/sara4kyj/TIL/blob/38d17876d9fd1d116b9fd6f98f4dadd80aebab43/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
 
-2. [pandas](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
+2. [pandas](https://github.com/sara4kyj/TIL/blob/1d910775eb400cec3362ac5dfd527164e8598fd3/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
 
 #### 02. [자료구조와 알고리즘](https://github.com/sara4kyj/TIL/blob/6a8071874533d97d85558a69c6f3861ac5414c31/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
@@ -26,7 +26,7 @@
 
 #### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/cc74585eb6b0a5df6444415ba0b8e3a7ade41718/python_study/05_OpenCV/)
 
-#### 06. [통계학 머신러닝](https://github.com/sara4kyj/TIL/blob/00979185ea199588b81d29db879a204888fbcabe/python_study/06_%ED%86%B5%EA%B3%84%ED%95%99_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
+#### 06. [통계학 머신러닝](https://github.com/sara4kyj/TIL/blob/1d910775eb400cec3362ac5dfd527164e8598fd3/python_study/06_%ED%86%B5%EA%B3%84%ED%95%99_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
 
 
 
