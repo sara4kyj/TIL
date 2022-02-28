@@ -26,7 +26,7 @@
 
 #### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/cc74585eb6b0a5df6444415ba0b8e3a7ade41718/python_study/05_OpenCV/)
 
-#### 06. [통계학 머신러닝](https://github.com/sara4kyj/TIL/blob/e7c505721a06d54994c125c2125f91bb59dad641/python_study/06_%ED%86%B5%EA%B3%84%ED%95%99_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
+#### 06. [통계학 머신러닝](https://github.com/sara4kyj/TIL/blob/120146cf14521740576857fcdaa8338c3f13a479/python_study/06_%ED%86%B5%EA%B3%84%ED%95%99_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
 
 
 
