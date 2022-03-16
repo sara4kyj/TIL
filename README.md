@@ -26,7 +26,7 @@
 
 #### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/cc74585eb6b0a5df6444415ba0b8e3a7ade41718/python_study/05_OpenCV/)
 
-#### 06. [머신러닝&딥러닝](https://github.com/sara4kyj/TIL/blob/e9dbc5ce78c24c37154c83efbd48e29870ec5ab9/python_study/06_MachineLearning&DeepLearning/)
+#### 06. [머신러닝&딥러닝](https://github.com/sara4kyj/TIL/blob/7f08761ab5ef3512a3580e1da34df0fb36ca0359/python_study/06_MachineLearning&DeepLearning/)
 
 
 
