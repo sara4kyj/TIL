@@ -10,25 +10,25 @@
 
 ###  - python 
 
-#### 01. [기초](https://github.com/sara4kyj/TIL/blob/df0c0051320b453df10003eb025db02bb74bd744/python_study/01_%EA%B8%B0%EC%B4%88)
+#### 01. [기초](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/01_basic/)
 
-0. [점프투파이썬 연습](https://github.com/sara4kyj/TIL/blob/7d69d08948018777a82e12daa1aee77e9365d48f/python_study/01_%EA%B8%B0%EC%B4%88/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+0. [점프투파이썬 연습](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/01_basic/00_%EC%A0%90%ED%94%84%ED%88%AC%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
-1. [기초문법](https://github.com/sara4kyj/TIL/blob/38d17876d9fd1d116b9fd6f98f4dadd80aebab43/python_study/01_%EA%B8%B0%EC%B4%88/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
+1. [기초문법](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/01_basic/01_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
 
-2. [pandas](https://github.com/sara4kyj/TIL/blob/1d910775eb400cec3362ac5dfd527164e8598fd3/python_study/01_%EA%B8%B0%EC%B4%88/02_pandas/)
+2. [pandas](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/01_basic/02_pandas/)
 
-#### 02. [자료구조와 알고리즘](https://github.com/sara4kyj/TIL/blob/6a8071874533d97d85558a69c6f3861ac5414c31/python_study/02_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+#### 02. [자료구조와 알고리즘](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/02_data_structures_&_algorithms)
 
 #### 03. [공공데이터분석](https://github.com/sara4kyj/TIL/blob/0c5840ac2f27be2f79b15d1dd82bc386531c27fc/python_study/03_%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/)
 
-#### 04.[ Web Crawling ](https://github.com/sara4kyj/TIL/blob/f7c621f88978df48df2aa478ca1607e442546202/python_study/04_%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81_%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EC%8B%A4%EB%AC%B4/)
+#### 04.[ Web Crawling ](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/04_Web_Crawling_%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%EC%8B%A4%EB%AC%B4)
 
 #### 05. [OpenCV](https://github.com/sara4kyj/TIL/blob/cc74585eb6b0a5df6444415ba0b8e3a7ade41718/python_study/05_OpenCV/)
 
-#### 06. [머신러닝](https://github.com/sara4kyj/TIL/blob/e5aebad6784e2b250a1944294598e84a29f56901/python_study/06_MachineLearning&DeepLearning/)
+#### 06. [머신러닝](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/06_MachineLearning)
 
-#### 07. [딥러닝](https://github.com/sara4kyj/TIL/blob/e5aebad6784e2b250a1944294598e84a29f56901/python_study/06_MachineLearning&DeepLearning/)
+#### 07. [딥러닝](https://github.com/sara4kyj/TIL/blob/d2a80467868af8b58a1b1e40ccf78c766678574c/python_study/07_DeepLearning)
 
 
 
